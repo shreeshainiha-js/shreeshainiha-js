@@ -19,8 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=shreeshainiha-js&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shreeshainiha-js&theme=dark&hide_border=false)<br/>
 ### Languages Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshainiha-js&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshainiha-js&theme=dark&hide_border=false&layout=compact)
 
 ### GitHub Stats
 
