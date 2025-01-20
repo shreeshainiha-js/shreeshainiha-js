@@ -20,7 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shreeshainiha-js&theme=dark&hide_border=false)<br/>
 ### Languages Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshainiha-js&theme=dark&hide_border=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shreeshainiha-js)](https://git.io/streak-stats)
+
 
 
 ---
