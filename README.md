@@ -24,7 +24,7 @@
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreeshainiha-js&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shreeshainiha-js)](https://git.io/streak-stats)
+
 
 
 ---
